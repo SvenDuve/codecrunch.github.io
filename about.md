@@ -1,4 +1,4 @@
-# About
+# &Uuml;ber
 
-Ein *Mini-Blog* \"uber coding. In [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Ein *Mini-Blog* &uuml;ber coding. In [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 

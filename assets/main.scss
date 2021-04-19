@@ -25,7 +25,7 @@
         border-left: 1px solid grey;
         margin-left: 1rem !important;
 }
-.language-python + .language-plaintext code { background-color: white !important; }
+.language-python + .language-plaintext code { background-color: rgb(226, 166, 166) !important; }
 .language-python + .language-plaintext pre  { background-color: white !important; }
 
 // for Jupyter Notebook HTML Code Cells from https://www.fast.ai/public/css/hyde.css
@@ -41,7 +41,7 @@
         margin-top:0.1rem !important;
         padding-bottom:0 !important;
         padding-top:0 !important;
-        background-color: white !important;
+        background-color: rgb(238, 189, 189) !important;
 }
 .input_area pre {
         border-left: 1px solid lightcoral;

@@ -1,6 +1,6 @@
 # Hallo, auf diesen Seiten lernst du zu coden. Egal ob du lernen willst Spiele zu programmieren oder was auch immer, starte hier:
 
-![Image of fast.ai logo](images/logo.png)
+![codecrunch.de](images/chocolate-2202083_1280.jpg)
 
 ## This is a title
 
